@@ -1,4 +1,2 @@
  Git 
-encore des test pour monter comment ça marche 
-Clone and add
-vim Test 
+Clone and add 
